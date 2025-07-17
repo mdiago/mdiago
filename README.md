@@ -50,7 +50,7 @@ Estoy abierto a propuestas, mejoras y colaboraciones en proyectos donde se cruce
 
 Puedes contactarme en:  
 📬 manuel@irenesolutions.com  
-🌐 [irenesolutions.com](https://irenesolutions.com)
+🌐 [irenesolutions.com](https://www.irenesolutions.com)
 
 ---
 
