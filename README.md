@@ -11,7 +11,7 @@
 
 Entusiasta del software libre intentando llevar las finanzas al siguiente nivel. Combino experiencia en desarrollo y finanzas para crear soluciones que no solo funcionan… ¡sino que cumplen con Hacienda! 😄
 
-Actualmente tengo la suerte de formar parte del equipo de [**Irene Solutions**](https://irenesolutions.com), donde desarrollamos herramientas para simplificar la facturación electrónica en España y la integración con la AEAT.
+Actualmente tengo la suerte de formar parte del equipo de [**Irene Solutions**](https://www.irenesolutions.com), donde desarrollamos herramientas para simplificar la facturación electrónica en España y la integración con la AEAT.
 
 ---
 
