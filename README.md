@@ -18,12 +18,11 @@ Actualmente tengo la suerte de formar parte del equipo de [**Irene Solutions**](
 ## 🚧 Proyectos en marcha
 
 ### 🔹 [VeriFactu](https://github.com/mdiago/VeriFactu)
-> Biblioteca open source en .NET para la comunicación con la AEAT bajo el modelo VERI*FACTU
+> Biblioteca open source en .NET para la integración con el sistema VERI*FACTU de la AEAT.
 
-✅ Compatible con los requisitos legales del art. 29.2.j) LGT  
-🔐 Incluye opciones de API REST con soporte y sin preocupaciones  
-📦 Disponible en NuGet: [`VeriFactu`](https://www.nuget.org/packages/VeriFactu)  
-🌍 Usado por desarrolladores y empresas de toda España  
+### 🔹 [FACe](https://github.com/mdiago/FACe)
+> Librería en C# para la emisión, firma y envío de facturas electrónicas en formato **Facturae** a través de la nueva plataforma **FACe** (API REST), simplificando la conexión con la Administración Pública.
+
 
 ---
 
