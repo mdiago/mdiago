@@ -13,6 +13,8 @@ Entusiasta del software libre intentando llevar las finanzas al siguiente nivel.
 
 Actualmente tengo la suerte de formar parte del equipo de [**Irene Solutions**](https://www.irenesolutions.com), donde desarrollamos herramientas para simplificar la facturación electrónica en España y la integración con la AEAT.
 
+También asesoro a empresas y autónomos en contabilidad, fiscalidad y área laboral; siempre contando con herramientas tecnoógicas desde nuestra plataforma [Wefinz](https://www.wefinz.com/asesoria/).
+
 ---
 
 ## 🚧 Proyectos en marcha
